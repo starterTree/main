@@ -1,6 +1,6 @@
 [submodule "core.git"]
-	path = core.git
+	path = core_git
 	url = https://github.com/starterTree/core.git
 [submodule "dir.git"]
-	path = dir.git
+	path = dir_git
 	url = https://github.com/starterTree/dir.git

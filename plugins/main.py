@@ -16,7 +16,7 @@ sys.path.insert(1, parent)
 #import plugins.www.main
 #import plugins.manage.main
 #import plugins.config.main
-import dir.main
+import dir_git.main
 #import plugins.readDict.main
 #import plugins.external_config.main
-import debug.main
+#import debug_git.main
